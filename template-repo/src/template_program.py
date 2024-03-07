@@ -1,11 +1,11 @@
 '''
-NAME
+NAME  
        
 
-VERSION
+VERSION 
         
 
-AUTHOR
+AUTHOR Erika Ordoñez
         
 
 DESCRIPTION
