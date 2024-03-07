@@ -1,6 +1,7 @@
+
 # [Nombre del proyecto]
 
-Objetivo:
+UNa pequeña descripción de lo que hace el código a implementar.
 
 ## Uso
 
@@ -10,7 +11,10 @@ El script acepta un solo argumento, el nombre del archivo a leer:
 python sumador.py -inputfile [archivo]
 ```
 
+
 donde `[archivo]` es el nombre del archivo que contiene ... El archivo debe contener un número por línea.
+
+
 
 ## Salida
 
