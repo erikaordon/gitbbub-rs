@@ -1,6 +1,6 @@
 # Nombre del proyecto
 
-UNa pequeña descripción de lo que hace el código a implementar. 
+UNa pequeña descripción de lo que hace el código a implementar. .
 
 ## Uso
 
