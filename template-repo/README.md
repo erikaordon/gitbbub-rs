@@ -1,7 +1,7 @@
 
 # [Nombre del proyecto]
 
-UNa pequeña descripción de lo que hace el código a implementar.
+Una pequeña descripción de lo que hace el código a implementar.
 
 ## Uso
 
@@ -43,6 +43,7 @@ Este README ofrece información de uso básico. Para obtener información más d
 ## Código fuente
 
 El código fuente está disponible en este repositorio. Se acoge con satisfacción cualquier contribución o sugerencia a través de solicitudes pull request.
+El código está disponible a cambios.
 
 ## Términos de uso
 
