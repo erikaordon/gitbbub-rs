@@ -39,6 +39,7 @@ El script está diseñado para operar en archivos de texto plano, con un número
 ## Metadatos y documentación
 
 Este README ofrece información de uso básico. Para obtener información más detallada sobre el diseño y la implementación del script, consulte [Enlace a la documentación].
+También se pueden agregar nuevos datos para complementar los datos existentes. 
 
 ## Código fuente
 
